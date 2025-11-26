@@ -89,4 +89,4 @@ cricbuzz_livestats/
 
 If you would like improvements or new features, feel free to reach out!
 Author: Kevin Christopher
-GitHub: 
+GitHub: Kevinchris745
