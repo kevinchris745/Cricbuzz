@@ -69,6 +69,8 @@ DB_CONFIG = {
 To run App:
 streamlit run app.py
 
+*** Important notice***
+please update path directory of the downloaded CSV files for code to run 
 
 ## 🗂 Project Structure
 
@@ -95,4 +97,5 @@ cricbuzz_livestats/
 
 If you would like improvements or new features, feel free to reach out!
 Author: Kevin Christopher
+
 GitHub: Kevinchris745
